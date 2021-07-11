@@ -1,0 +1,11 @@
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\bin\Debug\SnackMachine.exe.config
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\bin\Debug\SnackMachine.exe
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\bin\Debug\SnackMachine.pdb
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.csproj.AssemblyReference.cache
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.MainPage.resources
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.Properties.Resources.resources
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.csproj.GenerateResource.cache
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.csproj.CoreCompileInputs.cache
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.exe
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.pdb
+C:\Users\Yazan TC\Desktop\FreightosAssignment\SnackMachine\SnackMachine\obj\Debug\SnackMachine.VisaCard.resources
